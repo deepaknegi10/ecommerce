@@ -1,3 +1,3 @@
 # ecommerce
 
-A website made on React, Sanity and NextJS.
+A website made on React, Sanity, Stripe api and NextJS.
